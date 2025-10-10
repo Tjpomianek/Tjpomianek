@@ -19,7 +19,7 @@ Boston, MA
 Analyzed sentiment of White House press releases and its correlation with market volatility.  
 Used TextBlob for sentiment scoring and Matplotlib for visualization.
 
-#### [GAD SQL Database Project](https://github.com/Tjpomianek/](https://github.com/Tjpomianek/gene-project-CS3200)
+#### [GAD SQL Database Project](https://github.com/Tjpomianek/gene-project-CS3200)
 Created a MySQL database to study gene–disease associations and query relationships in cancer research data.  
 
 ---
