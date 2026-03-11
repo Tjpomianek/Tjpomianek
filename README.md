@@ -9,7 +9,7 @@ Boston, MA
 
 ### Technical Skills
 - **Languages:** Python, SQL, MySQL  
-- **Libraries:** Pandas, NumPy, Matplotlib, Plotly, BeautifulSoup, TextBlob, Sci-kit Learn
+- **Libraries:** Pandas, NumPy, Matplotlib, Plotly, BeautifulSoup, TextBlob, Scikit-Learn
 - **Tools:** Git/GitHub, Jupyter, MySQL Workbench, VSCode, PyCharm, Conda/Anaconda
 
 ---
