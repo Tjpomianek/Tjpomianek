@@ -2,7 +2,7 @@
 
 **Data Science & Economics @ Northeastern University**  
 Passionate about data analytics, visualization, and machine learning  
-Available July–December 2026 for Co-op
+Available July–December 2026 for co-op
 Boston, MA  
 
 ---
