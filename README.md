@@ -2,7 +2,7 @@
 
 **Data Science & Economics @ Northeastern University**  
 Passionate about data analytics, visualization, and machine learning  
-Seeking **Spring 2026 Data Analytics Co-op** opportunities  
+Available July–December 2026 for Co-op
 Boston, MA  
 
 ---
@@ -22,10 +22,14 @@ Used TextBlob for sentiment scoring and Matplotlib for visualization.
 #### [GAD SQL Database Project](https://github.com/Tjpomianek/gene-project-CS3200)
 Created a MySQL database to study gene–disease associations and query relationships in cancer research data.  
 
+#### [Twitter(X) Database Benchmark Project](https://github.com/Tjpomianek/Twitter-X_Database_Benchmark)
+Modeled and Benchmarked Twitter's posting and timeline retrieval to compare the performance of a relational SQLite database with a non-relational Redis database.
+
 ---
 
 ### Interests
-Experimental data science projects combining Python, SQL, and visualization tools
+Applying data science to topics including economics, biology, and finance. I also enjoy hiking, biking, skiing, fishing and playing the guitar. 
 
 **Email:** [pomianek.t@northeastern.edu](mailto:pomianek.t@northeastern.edu)  
+**LinkedIn:** [linkedin.com/in/theodore-pomianek](www.linkedin.com/in/theodore-pomianek)
 **GitHub Portfolio:** [github.com/Tjpomianek](https://github.com/Tjpomianek)
