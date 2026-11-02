@@ -23,7 +23,7 @@ Modeled tweet posting and timeline retrieval to compare SQLite and Redis perform
 #### [Cancer-Linked Gene Chromosome Analysis](https://github.com/Tjpomianek/gene-project-CS3200)
 Built a MySQL database to organize gene–disease associations from the Genetic Association Database. Used SQL aggregation, pandas, and Matplotlib to analyze cancer-linked gene counts by chromosome, and created a Plotly Sankey diagram connecting chromosomes, genes, and cancer phenotypes.
 
-#### [White House Sentiment and Stock Market Analysis](https://github.com/bryanma24/house-and-market)
+#### [White House Sentiment and Stock Market Analysis]([https://github.com/bryanma24/house-and-market](https://github.com/Tjpomianek/house-and-market))
 Collected White House articles with BeautifulSoup and analyzed relationships between TextBlob sentiment scores and stock market returns. Explored lagged correlations and used PCA and K-means clustering to identify article themes and compare them with market movements.
 
 ---
